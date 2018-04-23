@@ -1,6 +1,7 @@
-#blue-box {
-  display: inline-block;
-  width: 100px;
-  height: 100px;
-  background-color: blue;
+.margin {
+    margin-bottom: 5px;
+}
+
+.margin-top {
+    margin-top: 10px;
 }
